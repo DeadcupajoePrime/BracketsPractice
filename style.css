@@ -2,5 +2,9 @@ body{
     background-color: #00ffff;
 }
 
+p{
+border: dotted 2px;
+}
+
 
 /*Jeremy Imler*/
